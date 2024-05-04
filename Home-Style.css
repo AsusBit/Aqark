@@ -87,7 +87,6 @@ footer {
     margin: 60px; /* Add some margin between the boxes */
     flex-basis: 30%; /* Set the initial size of each box */
     max-width: 300px; /* Limit the maximum width of each box */
-    cursor: pointer;
 }
 
 .box h2 {
